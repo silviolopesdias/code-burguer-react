@@ -4,7 +4,7 @@ const paths = {
   EditProducts: '/editar-produto',
   NewProducts: '/novo-produto',
   Login: '/login',
-  Register: '/cadatro',
+  Register: '/cadastro',
   Home: '/',
   Produtos: '/produtos',
   Cart: '/carrinho'
